@@ -1,0 +1,27 @@
+{
+  "name": "hapi-json-api-starterkit",
+  "version": "1.0.0",
+  "description": "Starterkit for creating APIs in Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostney/hapi-json-api-starterkit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frostney/hapi-json-api-starterkit/issues"
+  },
+  "homepage": "https://github.com/frostney/hapi-json-api-starterkit#readme",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  },
+  "dependencies": {
+    "catbox-memory": "^2.0.2",
+    "convict": "^1.3.0",
+    "hapi": "^13.4.1"
+  }
+}
